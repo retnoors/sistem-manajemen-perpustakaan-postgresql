@@ -59,7 +59,7 @@ Kamu bisa menjalankan script ini melalui **pgAdmin Query Tool** atau via **Termi
 
 ---
 
-## 🔒 Catatan Keamanan
+## Catatan Keamanan
 
 * **Automatic Password Hashing:** Skrip enkripsi pada `trigger_function.sql` secara otomatis mengubah *plain text password* menjadi *hash* aman menggunakan `pgcrypto` sebelum disimpan ke dalam tabel basis data.
 * **Safe Repository Data:** Repositori ini hanya berisi skema struktur, logika bisnis, dan data sampel dummy. Tidak ada kredensial atau data sensitif yang tersimpan.
