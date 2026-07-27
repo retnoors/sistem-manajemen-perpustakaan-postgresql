@@ -21,3 +21,5 @@ Perancangan Database RDBMS Sistem Manajemen Perpustakaan Menggunakan PostgreSQL.
 ├── 03_sample_data.sql         # Script DML (Data dummy/sampel untuk pengujian)
 ├── erd_diagram.png            # Diagram Visual ERD (Entity Relationship Diagram)
 └── README.md                 # Dokumentasi utama proyek
+
+---
